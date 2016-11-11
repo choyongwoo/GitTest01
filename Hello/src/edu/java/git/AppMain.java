@@ -6,6 +6,8 @@ public class AppMain {
 		System.out.println("Hello, Git!!");
 		System.out.println("안녕하세요~~");
 		System.out.println("한글이 깨진다");
+		
+		system.out.println("Bug Fix");
 	}
 
 }
